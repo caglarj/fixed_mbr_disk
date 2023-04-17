@@ -40,8 +40,7 @@ Sorunu ve çözümü tanımladığımıza göre şimdi sırasıyla işlemlere ge
 The selected disk is not a fixed MBR disk. The ACTIVE command can only be used on fixed MBR disks.
 ```
 
-
-İmg
+![screenshot](https://github.com/caglarj/fixed_mbr_disk/blob/a9d869f574c39dba30e8860f1d3109e7b5739a79/4CFFBCE9-DF18-4630-9944-3E163145B776.jpeg)
 
 
 Seçili disk sabit bir MBR diski değil. ACTIVE komutu sadece sabit MBR disklerinde kullanılabilir.
